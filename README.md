@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @JefersonProjects
-- 👀 I am interested in software development. I am passionate about solving complex problems and creating applications that have real impact.
-- 🌱 I'm currently learning more about databases and how to integrate them with my Java applications. I'm also exploring web development and how I can use my Java skills in that field.
-- 💞️ I am looking to collaborate on projects that challenge me and help me grow as a developer. I am particularly interested in web development projects.
-- 📫 You can contact me through my email: jeffersonalejandro943@gmail.com. You can also follow me on GitHub to see my latest projects.
-<!---
-JefersonProjects/JefersonProjects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+👋 Hola, soy @JefersonProjects
+👀 Estoy interesado en el desarrollo de software. Me apasiona resolver problemas complejos y crear aplicaciones que tengan un impacto real.
+🌱 Actualmente estoy aprendiendo más sobre bases de datos y cómo integrarlas con mis aplicaciones Java. También estoy explorando el desarrollo web y cómo puedo usar mis habilidades en Java en ese campo.
+💞️ Estoy buscando colaborar en proyectos que me desafíen y me ayuden a crecer como desarrollador. Estoy particularmente interesado en proyectos de desarrollo web.
+📫 Puedes contactarme a través de mi correo electrónico: jeffersonalejandro943@gmail.com. También puedes seguirme en GitHub para ver mis últimos proyectos.
+
 --->
